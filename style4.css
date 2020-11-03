@@ -1,0 +1,16 @@
+html {
+  background-color: darkgrey;
+  letter-spacing: 1px;
+}
+
+#artistes, h3 {
+  font-size: 27px;
+  color: black;
+  font-family: 'Acme';
+  text-align: center;
+}
+
+h4 {
+  color: black;
+  font-family: 'Acme';
+}

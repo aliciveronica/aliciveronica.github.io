@@ -1,0 +1,23 @@
+html {
+  background-color: coral;
+  letter-spacing: 1px;
+}
+
+h2 {
+  text-align: center;
+  color: darkred;
+  font-family: 'Bowlby One SC';
+  font-size: 35px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+audio {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}

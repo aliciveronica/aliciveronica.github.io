@@ -1,0 +1,23 @@
+html {
+  background-color: goldenrod;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 35px;
+  color: darkolivegreen;
+  font-family: 'East Sea Dokdo';
+  text-align: center;
+}
+
+h2 {
+  font-size: 55px;
+  color: darkolivegreen;
+  font-family: 'East Sea Dokdo';
+  text-align: center;
+}
+
+img, iframe {
+  display: block;
+  margin: 0 auto;
+}
