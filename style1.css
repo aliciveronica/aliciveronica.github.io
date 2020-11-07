@@ -53,7 +53,7 @@ div#menu li a:hover, div#menu li a:focus, div#menu li a:active {
 
 h2, h3, h4 {
     font-family: 'Acme';
-    src: url("Acme/Acme-Regular.ttf")
+    src: url("Acme/Acme-Regular.ttf") format ('truetype');
 }
 
 
